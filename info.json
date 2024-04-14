@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "label": "Kaspersky Security Center 13",
     "description": "Manages endpoints and groups through the Kaspersky Security Center 13",
-    "publisher": "Community",
+    "publisher": "Islam Baker",
     "icon_small_name": "logo.png",
     "icon_large_name": "logo.png",
     "category": "Antivirus",
